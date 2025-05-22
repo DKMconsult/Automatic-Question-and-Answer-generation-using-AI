@@ -1,4 +1,4 @@
-# Automatic-Question-and-Answer-generation-using-AI
+# Automatic-Question-and-Answer-generation-using-AI(This is in the master branch with a small change in this README version of it)
 This project implements a robust pipeline to process NCERT textbook PDFs across classes and subjects, convert them into semantically meaningful vector embeddings using OpenAI's text-embedding-ada-002, and store them in a Qdrant vector database for efficient retrieval. Built with the LangChain framework, this system is designed to power intelligent question-answering, tutoring, or curriculum automation tools.
 
 Key Features
